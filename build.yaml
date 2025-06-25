@@ -20,4 +20,4 @@
 ---
 include:
   - board: puchi_ble_v1
-    shield: redsplit-left
+    shield: redsplit_left
